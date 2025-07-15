@@ -1,0 +1,368 @@
+{
+  "site": {
+    "title" : "ProfitRecovery",
+    "description" : "Profit Recovery is a service focused on identifying and reclaiming missed receivables from past transactions, contract terms, invoicing errors, and financial operations - including lost or wrongly paid funds.",
+    "keywords" : "Profit Recovery, audit, finance, financial services",
+    "author" : "Trayan Stefanov"
+  },
+
+  "navbar": {
+    "logo": "/logo_en.png",
+    "home": "Home",
+    "about": "About Us",
+    "prices-and-processes": "Prices and processes",
+    "services-and-scope": "Services and scope",
+    "contacts": "Contacts"
+  },
+  "footer": {
+    "phone": "+359 888 888888",
+    "email": "TSS@example.eu",
+    "slogan": "Contact us - and discover how much you've lost… without even knowing it. ",
+    "social": "Socials",
+    "social-links": {
+      "linkedin": "https://www.linkedin.com/"
+    }
+  },
+  "language": {
+    "bg": "Bulgarian",
+    "en": "English"
+  },
+  "calculator": {
+    "title2": "Let's see how much we can recover:",
+    "industry": {
+      "1": "Select Industry",
+      "2": "Production",
+      "3": "Wholesale",
+      "4": "Retail",
+      "5": "Construction and infrastructure",
+      "6": "Logistics and shipping",
+      "7": "Healthcare",
+      "8": "Pharmacy",
+      "9": "Telecommunications",
+      "10": "IT services",
+      "11": "Energy sector",
+      "12": "Government and municipal administration",
+      "13": "Financial and insurance sector",
+      "14": "Tourism and hospitality"
+    },
+    "turnover": "Input turnover (€):",
+    "btn": "Calculate",
+    "savings": "Possible return amount:"
+  },
+  "home": { 
+    "meta": {
+      "title": "Profit Recovery",
+      "description": "Profit Recovery services, now available in Bulgaria!",
+      "keywords": "Profit Recovery, audit, finance, financial services",
+      "author": "Trayan Stefanov"
+    },
+    "greeting": "Profit Recovery services, now available in Bulgaria!",
+    "title": "What is Profit Recovery?",
+    "subtitle": "Profit Recovery is a service focused on identifying and reclaiming missed receivables from past transactions, contract terms, invoicing errors, and financial operations - including lost or wrongly paid funds.",
+    "btnreadmore": "Read More",
+    "btnservices": "Services",
+    "slogan": "These are funds that already belong to you – they just haven’t been returned to you yet."
+  },
+  "about": {
+    "meta": {
+      "title": "Profit Recovery",
+      "description": "Profit Recovery services, now available in Bulgaria!",
+      "keywords": "Profit Recovery, audit, finance, financial services",
+      "author": "Trayan Stefanov"
+    },
+    "intro": {
+      "title": "About Us",
+      "paragraph": {
+        "1": "Profit Beck Ltd. was founded with the mission to help businesses identify and recover hidden financial losses. We work with medium and large companies across various industries, including manufacturing, retail/ wholesale, pharmacy, logistics, energy sector, IT and many more.",
+        "2": "Profit Beck Ltd. is a specialized firm focused on uncovering and reclaiming lost profits through contract analysis, overpayment detection, and accounting discrepancy audits. We operate on a \"no recovery - no fee\" basis."
+      },
+      "subtitle": "Why Profit Back Ltd.?:",
+      "list": {
+        "1": " - We guarantee full confidentiality, strictly adhering to your Non-Disclosure Agreement and all GDPR requirements.",
+        "2": " - No disruption to your daily operations",
+        "3": " - Dedicated financial and legal team"
+      }
+    },
+    "issues": {
+      "title": "Why NOW?",
+      "factors": {
+        "1": {
+          "title": "Inflation",
+          "text": "Goods and services cost more, but your revenues aren't keeping pace"
+        },
+        "2": {
+          "title": "Uncertainty",
+          "text": "Banks, partners, and even government institutions are changing their terms"
+        },
+        "3": {
+          "title": "Money leaks",
+          "text": "Companies are losing money due to contract errors, system glitches, and invoicing mistakes"
+        },
+        "4": {
+          "title": "Rising debt",
+          "text": "The liquidity of small and medium businesses is under threat"
+        }
+      }
+    },
+    "section": {
+      "titles": {
+        "1": "What we offer:",
+        "2": "What you get:",
+        "mobile": "What we offer and you get in return:"
+      },
+      "leftlist": {
+        "1": "We Analyze - A free review of your financial and contractual documents",
+        "2": "We Detect - Hidden losses, overpaid fees, and missed revenue opportunities",
+        "3": "We Act - Recovering funds through administrative, legal, or commercial action",
+        "4": "We Optimize - Providing recommendations to prevent future losses"
+      },
+      "rightlist": {
+        "1": "Real cash in challenging times",
+        "2": "Improved liquidity",
+        "3": "Better financial control",
+        "4": "A more resilient business in an uncertain economy"
+      }
+    }
+  },
+  "contacts": {
+    "meta": {
+      "title": "Profit Recovery",
+      "description": "Profit Recovery services, now available in Bulgaria!",
+      "keywords": "Profit Recovery, audit, finance, financial services",
+      "author": "Trayan Stefanov"
+    },
+    "title": "Contact us",
+    "text": {
+      "normal": "Contact us - and discover how much you've lost… ",
+      "bold": "without even knowing it."
+    },
+    "location": {
+      "note": "Location:",
+      "value": "Sofia, Bulgaria"
+    },
+    "phone": {
+      "note": "Phone:",
+      "value": "+359 888 888888"
+    },
+    "email": {
+      "note": "Email:",
+      "value": "TSS@example.eu"
+    }
+  },
+  "prices-and-processes": {
+    "meta": {
+      "title": "Profit Recovery",
+      "description": "Profit Recovery services, now available in Bulgaria!",
+      "keywords": "Profit Recovery, audit, finance, financial services",
+      "author": "Trayan Stefanov"
+    },
+    "intro": {
+      "title": "Prices and processes",
+      "subtitle": "What our processes look like",
+      "boxes": {
+        "1": {
+          "title": "1. Discussing a plan",
+          "number": "Step One",
+          "details": {
+            "1": "Priority list by category",
+            "2": "Ring-fenced vendors"
+          }
+        },
+        "2": {
+          "title": "2. Deep analysis",
+          "number": "Step Two",
+          "details": {
+            "1": "Data analysis",
+            "2": "Contracts and Agreements check",
+            "3": "Confirm and formulate claim"
+          }
+        },
+        "3": {
+          "title": "3. Audit and claim processing",
+          "number": "Step Three",
+          "details": {
+            "1": "Present claim to the client",
+            "2": "Provide additional information if needed",
+            "3": "Client processes claim",
+            "4": "Report root cause",
+            "5": "Provide process improvement recommendations"
+          }
+        },
+        "4": {
+          "title": "4. You get your money",
+          "number": "Step Four",
+          "details": {
+            "1": "Recovered funds go back to your accout as EBIT",
+            "2": "We earn a small % only when succeed"
+          }
+        }
+      }
+    },
+    "prices": {
+      "title": "How much does it cost?",
+      "subtitle": "Multiple payment models",
+      "description": "To ensure the highest value for our clients, we offer recovery audit services through one of two payment models:",
+      "pricemodels": {
+        "percent": {
+          "title": "Success fee model",
+          "list": {
+            "1": "You pay us only when you get your money back.",
+            "2": "Percentage of the ammount of the recovery",
+            "3": "You dont have to pay anything upfront"
+          }
+        },
+        "mixed": {
+          "title": "Fixed Amount + Percent",
+          "list": {
+            "1": "Upfront fixed ammount payment",
+            "2": "Lower Percentage of the ammount of the recovery",
+            "3": "May be required for complex cases"
+          }
+        }
+      }
+    }
+  },
+  "services-and-scope": {
+    "meta": {
+      "title": "Profit Recovery",
+      "description": "Profit Recovery services, now available in Bulgaria!",
+      "keywords": "Profit Recovery, audit, finance, financial services",
+      "author": "Trayan Stefanov"
+    },
+    "intro": {
+      "title": "Scope & Services",
+      "text": "We work with a wide range of industries and offer a range of services to meet the specific needs of our clients.",
+      "text2": "Check them out below"
+    },
+    "services": {
+      "title": "Services",
+      "leftlist": {
+        "1": "Overpayment Analysis",
+        "2": "Process walkthrough",
+        "3": "Contract and Invoice Review",
+        "4": "Cost Optimization",
+        "5": "Missed Revenue Identification",
+        "6": "Loss Prevention",
+        "7": "Training and Consulting"
+      },
+      "rightlist": {
+        "1": "Identification and recovery of incorrect or duplicate payments.",
+        "2": "Detailed review of internal business processes to identify inefficiencies or losses.",
+        "3": "Verification of compliance between contracts, invoices, and actual deliveries.",
+        "4": "Reduction of unnecessary expenses through strategic analysis and restructuring.",
+        "5": "Uncovering opportunities to recover unrealized revenue.",
+        "6": "Establishment of control mechanisms to prevent future errors.",
+        "7": "Support for internal teams on best practices in management."
+      }
+    },
+    "industries": {
+      "title": "Industries Covered",
+      "list": {
+        "1": {
+          "title": "Production",
+          "details": {
+            "1": "Supplier and input material audits",
+            "2": "Recovery of overpaid transportation costs",
+            "3": "Analysis of logistics and service contracts"
+          }
+        },
+        "2": {
+          "title": "Wholesale",
+          "details": {
+            "1": "Management of bonuses, discounts, and promotions",
+            "2": "Detection of duplicate payments to suppliers",
+            "3": "Review of contracts with franchise partners"
+          }
+        },
+        "3": {
+          "title": "Retail",
+          "details": {
+            "1": "Ensuring alignment between contract terms, services rendered, and invoices",
+            "2": "Identification of missed deductions, overpayments, and duplicate expenses",
+            "3": "Practical, scalable strategies for long-term financial control"
+          }
+        },
+        "4": {
+          "title": "Construction & Infrastructure",
+          "details": {
+            "1": "Oversight of subcontractor contracts",
+            "2": "Recovery of unjustified material fees",
+            "3": "Review of project management costs"
+          }
+        },
+        "5": {
+          "title": "Logistics & Freight",
+          "details": {
+            "1": "Verification of warehousing and delivery fees",
+            "2": "Analysis of subcontractor agreements",
+            "3": "Cost control of routes and trucks"
+          }
+        },
+        "6": {
+          "title": "Healthcare",
+          "details": {
+            "1": "Audit of insurance-related payments",
+            "2": "Analysis of service and medication billing",
+            "3": "Review of contracts with equipment suppliers"
+          }
+        },
+        "7": {
+          "title": "Pharmacy",
+          "details": {
+            "1": "Analysis of raw material deliveries",
+            "2": "Review of contracts with external laboratories",
+            "3": "Optimization of logistics and quality control costs"
+          }
+        },
+        "8": {
+          "title": "Telecommunications",
+          "details": {
+            "1": "Evaluation of data, voice, and connectivity charges across contracts",
+            "2": "Identification and recovery of unjustified fees or penalties",
+            "3": "Recommendations for bundling, renegotiation, or switching plans"
+          }
+        },
+        "9": {
+          "title": "IT services",
+          "details": {
+            "1": "Verification of software and subscription agreements for compliance and cost-effectiveness",
+            "2": "Analysis of ongoing costs for hosting, support, and SaaS tools",
+            "3": "Identification of underused assets and opportunities for system consolidation"
+          }
+        },
+        "10": {
+          "title": "Energy sector",
+          "details": {
+            "1": "Review of agreements with energy providers for pricing compliance",
+            "2": "Audit of utility invoices for mischarges or duplicate payments",
+            "3": "Assessment of energy use patterns and identification of savings opportunities"
+          }
+        },
+        "11": {
+          "title": "Government and Municipal Administration",
+          "details": {
+            "1": "Audit of public procurement processes",
+            "2": "Review of contracts with external contractors",
+            "3": "Reduction of excessive administrative costs"
+          }
+        },
+        "12": {
+          "title": "Financial Sector and Insurance",
+          "details": {
+            "1": "Analysis of banking and insurance fees",
+            "2": "Identification of incorrectly applied commissions",
+            "3": "Optimization of transactional processes"
+          }
+        },
+        "13": {
+          "title": "Tourism and Hospitality",
+          "details": {
+            "1": "Review of reservations, platforms, and commissions",
+            "2": "Analysis of contracts with travel agencies",
+            "3": "Audit of maintenance and service expenses"
+          }
+        }
+      }
+    }
+  }
+}

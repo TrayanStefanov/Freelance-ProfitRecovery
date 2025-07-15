@@ -1,0 +1,22 @@
+.slider-container {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .slider-track {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+
+  .card-slide {
+    box-sizing: border-box;
+  }
+
+  .icon {
+    color: #333;
+    transition: 0.3s;
+    &:hover {
+      transform: scale(1.1);
+    }
+  }
+}
