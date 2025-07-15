@@ -76,7 +76,7 @@ On the frontend, the application is built with React 19 and Vite, offering a fas
      - It will run on http://localhost:5173
 
 ### Setting up Env
-     - Greate MongoDB Account and Database
+     - Create MongoDB Account and Database
      - Create Upstash Account
      - Create Cloudinary Account
 
