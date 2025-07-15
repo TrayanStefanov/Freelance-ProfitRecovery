@@ -1,5 +1,6 @@
 ﻿# Freelance-ProfitRecovery
 This is a MERN - stack project made for a friend's side bussiness - financial audit and tax, fee and contract cashback services. Includes a minimal CMS.
+Both frontend and backend are hosted on render - https://frontend-static-d3dl.onrender.com/
 
 ## Overview
 - [Introduction](#introduction)
@@ -9,6 +10,7 @@ This is a MERN - stack project made for a friend's side bussiness - financial au
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
     - [Running the Application](#running-the-application)
+- [Setting up env](#setting-up-env)
 
 ## Introduction
   This project includes a RESTful API built with Node.js, Express, and MongoDB, designed to manage articles and client testimonials. The API supports full CRUD operations and includes cloud image uploads and Redis caching.
@@ -72,5 +74,10 @@ On the frontend, the application is built with React 19 and Vite, offering a fas
      - cd .\frontend
      - npm run dev
      - It will run on http://localhost:5173
-  
+
+### Setting up Env
+     - Greate MongoDB Account and Database
+     - Create Upstash Account
+     - Create Cloudinary Account
+
 As of now, the development of the Profit Recovery Service has been completed. The application has been built to meet the requirements and specifications outlined by the client. The frontend and backend have been fully integrated, and the application is fully functional. Development will resume if the client wants new features or changes to existing ones. There might be bug fixes.
