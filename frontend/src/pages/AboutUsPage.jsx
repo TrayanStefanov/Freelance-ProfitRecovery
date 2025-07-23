@@ -1,23 +1,32 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
+import SEO from '../components/SEO';
+import SchemaOrg from '../components/SchemaOrg';
+
 import { TbArrowBigRightLine, TbArrowBigDownLine } from "react-icons/tb";
 import { GiCheckMark } from "react-icons/gi";
 import { useTranslation } from "react-i18next";
-import { Helmet } from "react-helmet";
 
 
 const AboutUs = () => {
+
   const { t } = useTranslation();
+
+  const seoData = {
+    title: t("about.meta.title"),
+    description: t("about.meta.description"),
+    keywords: t("about.meta.keywords"),
+    author: t("about.meta.author"),
+    canonicalUrl: "https://profitrecoverybg.eu/about-us",
+    previewImage: "https://profitrecoverybg.eu/profitback_bulgarian.png",
+  }
+
+
   return (
     <div className='min-h-screen overflow-hidden'>
-      <Helmet>
-      <title>{t("about.meta.title")}</title>
-      <meta charSet='utf-8'/>
-      <meta name='description' content={t("about.meta.description")}/>
-      <meta name='keywords' content={t("about.meta.keywords")}/>
-      <meta author={t("about.meta.author")} />
-      </Helmet>
+      <SEO {...seoData} />
+      <SchemaOrg page="about" />
       <Navbar />
       <div className='md:min-h-[70vh] flex flex-col md:flex-row'>
         <img className='lg:w-1/2 max-h-[40vh] lg:max-h-[70vh] object-cover' src="./about-us.jpg" alt="" />
