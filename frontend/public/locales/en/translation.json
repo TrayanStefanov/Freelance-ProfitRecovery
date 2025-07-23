@@ -1,11 +1,10 @@
 {
   "site": {
-    "title" : "ProfitRecovery",
-    "description" : "Profit Recovery is a service focused on identifying and reclaiming missed receivables from past transactions, contract terms, invoicing errors, and financial operations - including lost or wrongly paid funds.",
-    "keywords" : "Profit Recovery, audit, finance, financial services",
-    "author" : "Trayan Stefanov"
+    "title": "ProfitRecovery BG - Expert Business Finance & Audit Services",
+    "description": "ProfitRecovery BG helps businesses in Bulgaria identify and reclaim lost funds from contracts, transactions, and financial errors to maximize profitability.",
+    "keywords": "Profit Recovery Bulgaria, financial audit, contract error detection, business finance consulting",
+    "author": "Trayan Stefanov"
   },
-
   "navbar": {
     "logo": "/logo_en.png",
     "home": "Home",
@@ -49,25 +48,25 @@
     "btn": "Calculate",
     "savings": "Possible return amount:"
   },
-  "home": { 
+  "home": {
     "meta": {
-      "title": "Profit Recovery",
-      "description": "Profit Recovery services, now available in Bulgaria!",
-      "keywords": "Profit Recovery, audit, finance, financial services",
-      "author": "Trayan Stefanov"
+      "title": "Profit Recovery Services in Bulgaria | Business Finance Audit",
+      "description": "Recover lost funds with expert Profit Recovery services in Bulgaria. We identify missed receivables, contract errors, and financial discrepancies.",
+      "keywords": "Profit Recovery Bulgaria, financial audit, business finance recovery, contract error detection",
+      "author": "Marin Sashev"
     },
     "greeting": "Profit Recovery services, now available in Bulgaria!",
     "title": "What is Profit Recovery?",
     "subtitle": "Profit Recovery is a service focused on identifying and reclaiming missed receivables from past transactions, contract terms, invoicing errors, and financial operations - including lost or wrongly paid funds.",
     "btnreadmore": "Read More",
     "btnservices": "Services",
-    "slogan": "These are funds that already belong to you – they just haven’t been returned to you yet."
+    "slogan": "These are funds that already belong to you - they just haven’t been returned to you yet."
   },
   "about": {
     "meta": {
-      "title": "Profit Recovery",
-      "description": "Profit Recovery services, now available in Bulgaria!",
-      "keywords": "Profit Recovery, audit, finance, financial services",
+      "title": "About ProfitRecovery BG | Trusted Business Recovery Experts",
+      "description": "Learn how ProfitRecovery BG helps businesses reclaim hidden profits through expert audits, contract reviews, and financial consulting in Bulgaria.",
+      "keywords": "business recovery Bulgaria, financial consulting, contract review services, audit experts",
       "author": "Trayan Stefanov"
     },
     "intro": {
@@ -126,9 +125,9 @@
   },
   "contacts": {
     "meta": {
-      "title": "Profit Recovery",
-      "description": "Profit Recovery services, now available in Bulgaria!",
-      "keywords": "Profit Recovery, audit, finance, financial services",
+      "title": "Contact ProfitRecovery BG | Get Your Business Funds Back",
+      "description": "Contact ProfitRecovery BG today to start recovering lost revenue. Expert financial recovery and consulting services for businesses in Bulgaria.",
+      "keywords": "contact ProfitRecovery, business finance help, recover lost funds, financial consulting Bulgaria",
       "author": "Trayan Stefanov"
     },
     "title": "Contact us",
@@ -151,9 +150,9 @@
   },
   "prices-and-processes": {
     "meta": {
-      "title": "Profit Recovery",
-      "description": "Profit Recovery services, now available in Bulgaria!",
-      "keywords": "Profit Recovery, audit, finance, financial services",
+      "title": "Services & Expertise | Profit Recovery and Business Consulting",
+      "description": "Explore ProfitRecovery BG's comprehensive services including debt collection, business consulting, legal services, and financial audits.",
+      "keywords": "debt collection, business consulting Bulgaria, legal business services, financial audit services",
       "author": "Trayan Stefanov"
     },
     "intro": {
@@ -224,9 +223,9 @@
   },
   "services-and-scope": {
     "meta": {
-      "title": "Profit Recovery",
-      "description": "Profit Recovery services, now available in Bulgaria!",
-      "keywords": "Profit Recovery, audit, finance, financial services",
+      "title": "Pricing & Process | Transparent Profit Recovery Solutions",
+      "description": "Understand our pricing models and recovery process. ProfitRecovery BG offers no upfront fees with success-based payment options.",
+      "keywords": "profit recovery pricing, audit pricing Bulgaria, business recovery process, success fee audit",
       "author": "Trayan Stefanov"
     },
     "intro": {
