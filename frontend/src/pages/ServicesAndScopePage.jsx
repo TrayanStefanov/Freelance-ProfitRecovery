@@ -1,26 +1,29 @@
 import React from 'react'
 import { TbArrowBigRightLine, TbArrowBigDownLine } from "react-icons/tb";
 import { useTranslation } from "react-i18next";
-import { Helmet } from "react-helmet";
 
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
-
+import SEO from '../components/SEO';
+import SchemaOrg from '../components/SchemaOrg';
 
 
 const ServiceAndScope = () => {
 
   const {t} = useTranslation();
 
+  const seoData = {
+    title: t("services-and-scope.meta.title"),
+    description: t("services-and-scope.meta.description"),
+    keywords: t("services-and-scope.meta.keywords"),
+    author: t("services-and-scope.meta.author"),
+    canonicalUrl: "https://profitrecoverybg.eu/services-and-scope",
+    previewImage: "https://profitrecoverybg.eu/profitback_bulgarian.png",
+  }
   return (
     <div className='min-h-screen overflow-hidden'>
-      <Helmet>
-      <title>{t("services-and-scope.meta.title")}</title>
-      <meta charSet='utf-8'/>
-      <meta name='description' content={t("services-and-scope.meta.description")}/>
-      <meta name='keywords' content={t("services-and-scope.meta.keywords")}/>
-      <meta author={t("services-and-scope.meta.author")} />
-      </Helmet>
+      <SEO {...seoData} />
+      <SchemaOrg page="services" />
       <Navbar />
       <div
         className="hero min-h-[80vh] bg-right md:bg-center"
