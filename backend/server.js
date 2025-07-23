@@ -8,6 +8,7 @@ import cookieParser from "cookie-parser";
 import authRoute from "./routes/auth.route.js";
 import articleRoute from "./routes/article.route.js";
 import testimonialRoute from "./routes/testimonial.route.js";
+import sitemapRoute from "./routes/sitemap.route.js";
 
 import { connectDB } from "./lib/db.js";
 dotenv.config();
@@ -22,6 +23,8 @@ app.use(cookieParser());
 app.use("/api/auth", authRoute);
 app.use("/api/articles", articleRoute);
 app.use("/api/testimonials", testimonialRoute);
+app.use('/', sitemapRoute);
+
 
 app.listen(PORT, () => {
     console.log(`Server running on port http://localhost:${PORT}` + "\n");
