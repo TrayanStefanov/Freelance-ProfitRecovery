@@ -1,4 +1,7 @@
 import React, { useEffect, useState } from 'react';
+import { MdLogout, MdReviews, MdRateReview, MdArticle, MdOutlineArticle } from 'react-icons/md';
+import { motion } from 'framer-motion';
+import { Helmet } from 'react-helmet';
 import LoginModal from '../components/LoginModal';
 import { useUserStore } from '../stores/useUserStore';
 import { useArticleStore } from '../stores/useArticleStore';
@@ -7,8 +10,6 @@ import CreateArticleForm from '../components/CreateArticleForm';
 import Articles from '../components/ArticlesList';
 import CreateTestimonialForm from '../components/CreateTestimonialForm';
 import Testimonials from '../components/TestimonialsList';
-import { MdLogout, MdReviews, MdRateReview, MdArticle, MdOutlineArticle } from 'react-icons/md';
-import { motion } from 'framer-motion';
 
 const tabs = [
   { id: 'createA', label: 'Create Article', icon: MdOutlineArticle },
@@ -57,6 +58,11 @@ const DashboardPage = () => {
 
   return (
     <div className="min-h-screen relative overflow-hidden">
+      <Helmet>
+        <title>Admin Dashboard | ProfitBack</title>
+        <meta name="robots" content="noindex, nofollow" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      </Helmet>
       <div className="relative z-10 container mx-auto px-4 py-16">
         <div className='flex flex-row place-self-center'>
 
