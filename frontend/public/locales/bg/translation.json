@@ -1,9 +1,9 @@
 {
   "site": {
-    "title" : "ProfitRecovery",
-    "description" : "Profit Recovery is a service focused on identifying and reclaiming missed receivables from past transactions, contract terms, invoicing errors, and financial operations - including lost or wrongly paid funds.",
-    "keywords" : "Profit Recovery, audit, finance, financial services",
-    "author" : "Trayan Stefanov"
+    "title": "ProfitRecovery България - Експертни услуги за финансов одит и възстановяване на средства",
+    "description": "ProfitRecovery България помага на бизнеси да откриват и възстановяват пропуснати приходи, грешки в договори и финансови несъответствия за максимизиране на печалбите.",
+    "keywords": "Profit Recovery България, финансов одит, възстановяване на средства, оптимизация на разходи, бизнес консултации",
+    "author": "Траян Стефанов"
   },
   "navbar": {
     "logo": "/logo_bg.png",
@@ -48,10 +48,10 @@
   },
   "home": {
     "meta": {
-      "title": "Profit Recovery",
-      "description": "Profit Recovery services, now available in Bulgaria!",
-      "keywords": "Profit Recovery, audit, finance, financial services",
-      "author": "Marin Sashev"
+      "title": "Profit Recovery България - Възстановяване на загубени средства и финансов одит",
+      "description": "Profit Recovery предлага професионални услуги за откриване и възстановяване на пропуснати приходи, надплатени суми и финансови несъответствия в България.",
+      "keywords": "Profit Recovery България, финансов одит, възстановяване на средства, бизнес консултации, оптимизация на разходи",
+      "author": "Траян Стефанов"
     },
     "greeting": "Profit Recovery вече и в България ",
     "title": "Какво е Profit Recovery?",
@@ -62,16 +62,16 @@
   },
   "about": {
     "meta": {
-      "title": "Profit Recovery",
-      "description": "Profit Recovery services, now available in Bulgaria!",
-      "keywords": "Profit Recovery, audit, finance, financial services",
-      "author": "Trayan Stefanov"
+      "title": "Profit Recovery България | Финансов одит и услуги за оптимизация на разходи",
+      "description": "„Профит Бек“ ЕООД предоставя професионални услуги за откриване и възстановяване на пропуснати приходи и надплащания чрез задълбочен финансов анализ и договорна ревизия.",
+      "keywords": "Profit Recovery България, финансов одит, възстановяване на приходи, договорна ревизия, бизнес консултации",
+      "author": "Траян Стефанов"
     },
     "intro": {
       "title": "За нас",
       "paragraph": {
         "1": "„Профит Бек“ ЕООД е основана с мисията да помага на бизнеси да откриват и възстановяват скрити, пропуснати финансови вземания. Работим с големи и средни фирми в различни индустрии: производство, търговия, логистика, фармация, енергетика, ИТ и др.",
-        "2": "„Профит Бек“ ЕООД е специализирана фирма в откриване и възстановяване на изгубени печалби чрез анализ на договори, надплащания и счетоводни несъответствия. Работим на принципа „без резултат – без заплащане“."
+        "2": "„Профит Бек“ ЕООД е специализирана фирма в откриване и възстановяване на изгубени печалби чрез анализ на договори, надплащания и счетоводни несъответствия. Работим на принципа „без резултат - без заплащане“."
       },
       "subtitle": "С какво се отличаваме:",
       "list": {
@@ -123,10 +123,10 @@
   },
   "contacts": {
     "meta": {
-      "title": "Profit Recovery",
-      "description": "Profit Recovery services, now available in Bulgaria!",
-      "keywords": "Profit Recovery, audit, finance, financial services",
-      "author": "Marin Sashev"
+      "title": "Контакти - Profit Recovery България",
+      "description": "Свържете се с Profit Recovery България и научете как да възстановите пропуснати финансови средства и подобрите финансовия контрол във вашия бизнес.",
+      "keywords": "Profit Recovery България, контакти, финансов одит, възстановяване на средства, бизнес подкрепа",
+      "author": "Траян Стефанов"
     },
     "title": "Контакти",
     "text": {
@@ -148,10 +148,10 @@
   },
   "prices-and-processes": {
     "meta": {
-      "title": "Profit Recovery",
-      "description": "Profit Recovery services, now available in Bulgaria!",
-      "keywords": "Profit Recovery, audit, finance, financial services",
-      "author": "Trayan Stefanov"
+      "title": "Процеси и Цени - Profit Recovery България",
+      "description": "Научете повече за процесите и моделите на таксуване на Profit Recovery България - възстановяване на средства чрез финансов одит с възнаграждение при успех или хибриден модел.",
+      "keywords": "Profit Recovery България, финансов одит, възстановяване на средства, модели на таксуване, процеси и цени",
+      "author": "Траян Стефанов"
     },
     "intro": {
       "title": "Процеси и Цени",
@@ -221,10 +221,10 @@
   },
   "services-and-scope": {
     "meta": {
-      "title": "Profit Recovery",
-      "description": "Profit Recovery services, now available in Bulgaria!",
-      "keywords": "Profit Recovery, audit, finance, financial services",
-      "author": "Trayan Stefanov"
+      "title": "Услуги и Обхват - Profit Recovery България",
+      "description": "Предлагаме широка гама от услуги за финансов одит, възстановяване на надплатени суми, оптимизация на разходи и бизнес консултации за различни индустрии в България.",
+      "keywords": "Profit Recovery България, финансов одит, възстановяване на средства, оптимизация на разходи, бизнес услуги, консултации",
+      "author": "Траян Стефанов"
     },
     "intro": {
       "title": "Обхват и услуги",
