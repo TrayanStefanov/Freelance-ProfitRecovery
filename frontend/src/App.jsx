@@ -7,6 +7,7 @@ import ServicesAndScope from "./pages/ServicesAndScopePage.jsx"
 import Contacts from "./pages/ContactsPage.jsx"
 import Dashboard from "./pages/DashboardPage.jsx"
 import Article from "./pages/ArticlePage.jsx"
+import NotFoundPage from "./pages/NotFoundPage.jsx"
 import ScrollToTop from "./components/ScrollToTop.jsx"
 
 import { Helmet } from 'react-helmet';
@@ -34,6 +35,7 @@ const App = () => {
         <Route path="/dashboard" element={<Dashboard />} />
         <Route path="/articles" element={<Article />} />
         <Route path="/articles/:id" element={<Article />} />
+        <Route path="*" element={<NotFoundPage />} />
       </Routes>
     </div>
   )
