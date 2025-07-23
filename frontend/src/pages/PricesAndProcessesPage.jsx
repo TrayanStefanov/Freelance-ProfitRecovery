@@ -2,25 +2,32 @@ import React from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import Calculator from '../components/Calculator';
+import SEO from '../components/SEO';
+import SchemaOrg from '../components/SchemaOrg';
+
 import { IoChatbubblesOutline } from "react-icons/io5";
 import { RiComputerLine } from "react-icons/ri";
 import { GoChecklist } from "react-icons/go";
 import { AiOutlineEuro } from "react-icons/ai";
 import { useTranslation } from "react-i18next";
-import { Helmet } from "react-helmet";
 
 const PricesAndProcesses = () => {
+
   const { t } = useTranslation();
+
+  const seoData = {
+    title: t("prices-and-processes.meta.title"),
+    description: t("prices-and-processes.meta.description"),
+    keywords: t("prices-and-processes.meta.keywords"),
+    author: t("prices-and-processes.meta.author"),
+    canonicalUrl: "https://profitrecoverybg.eu/prices-and-processes",
+    previewImage: "https://profitrecoverybg.eu/profitback_bulgarian.png",
+  }
 
   return (
     <div className='min-h-screen overflow-hidden'>
-      <Helmet>
-      <title>{t("prices-and-processes.meta.title")}</title>
-      <meta charSet='utf-8'/>
-      <meta name='description' content={t("prices-and-processes.meta.description")}/>
-      <meta name='keywords' content={t("prices-and-processes.meta.keywords")}/>
-      <meta author={t("prices-and-processes.meta.author")} />
-      </Helmet>
+      <SEO {...seoData} />
+      <SchemaOrg page="processes" />
       <Navbar />
       <div>
         <div className='flex flex-col min-h-[60vh] justify-center items-center text-primary bg-[linear-gradient(315deg,theme(colors.secondary),theme(colors.white))]'>
