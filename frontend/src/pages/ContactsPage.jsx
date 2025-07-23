@@ -1,24 +1,31 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
+import SEO from '../components/SEO';
+import SchemaOrg from '../components/SchemaOrg';
+
 import { FiPhoneCall,  FiMail  } from "react-icons/fi";
 import { TbLocation } from "react-icons/tb";
 import { useTranslation } from "react-i18next";
-import { Helmet } from "react-helmet";
 
 
 const Contacts = () => {
+  
   const {t} = useTranslation();
+
+  const seoData = {
+    title: t("contacts.meta.title"),
+    description: t("contacts.meta.description"),
+    keywords: t("contacts.meta.keywords"),
+    author: t("contacts.meta.author"),
+    canonicalUrl: "https://profitrecoverybg.eu/contacts",
+    previewImage: "https://profitrecoverybg.eu/profitback_bulgarian.png",
+  }
 
   return (
     <div className='min-h-screen overflow-hidden'>
-      <Helmet>
-      <title>{t("contacts.meta.title")}</title>
-      <meta charSet='utf-8'/>
-      <meta name='description' content={t("contacts.meta.description")}/>
-      <meta name='keywords' content={t("contacts.meta.keywords")}/>
-      <meta author={t("contacts.meta.author")} />
-      </Helmet>
+      <SEO {...seoData} />
+      <SchemaOrg page="contacts" />
       <Navbar />
       <div className="flex flex-col bg-[radial-gradient(circle,theme(colors.secondary),theme(colors.white))]">
           <div className='flex flex-row'>
