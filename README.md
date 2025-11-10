@@ -64,7 +64,7 @@ cd Freelance-ProfitRecovery
 cd backend
 npm install
 ```
-### 2. Install backend dependancies
+### 2. Install frontend dependancies
 ```bash
 cd ../frontend
 npm install
@@ -98,4 +98,5 @@ npm run dev
 The frontend should now be running at http://localhost:5173
  and communicating with the backend API at http://localhost:5000.
 ---
+
 
