@@ -92,11 +92,12 @@ cd backend
 npm run dev
 ```
 ```bash
-cd frontend
+cd ../frontend
 npm run dev
 ```
 The frontend should now be running at http://localhost:5173
  and communicating with the backend API at http://localhost:5000.
 ---
+
 
 
