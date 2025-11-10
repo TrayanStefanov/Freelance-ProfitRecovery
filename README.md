@@ -56,8 +56,8 @@ It also gave me hands-on experience with secure authentication, role-based acces
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/TrayanStefanov/profitrecovery.git
-cd profitrecovery
+git clone https://github.com/TrayanStefanov/Freelance-ProfitRecovery.git
+cd Freelance-ProfitRecovery
 ```
 ### 2. Install backend dependancies
 ```bash
@@ -98,3 +98,4 @@ npm run dev
 The frontend should now be running at http://localhost:5173
  and communicating with the backend API at http://localhost:5000.
 ---
+
